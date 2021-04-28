@@ -8,8 +8,8 @@ The latest firmware release for SCSI2SD V5.2, a custom version of firmware 4.8.4
 
 SCSI2SD V4 & V5 boards are configured using scsi2sd-util, which is an open source utility available for Windows, macOS, and Linux. This utility is also how firmware upgrades are performed. 
 
-Download SCSI2SD-util.exe for 64-bit Windows (http://www.scsi2sd.com/v5/files/v4.8.4-hardware-v5.2/windows/64bit/scsi2sd-util.exe)
-Download SCSI2SD-util.exe for 32-bit Windows (http://www.scsi2sd.com/v5/files/v4.8.4-hardware-v5.2/windows/32bit/scsi2sd-util.exe)
+Download SCSI2SD-util.exe for 64-bit Windows(http://www.scsi2sd.com/v5/files/v4.8.4-hardware-v5.2/windows/64bit/scsi2sd-util.exe)
+Download SCSI2SD-util.exe for 32-bit Windows(http://www.scsi2sd.com/v5/files/v4.8.4-hardware-v5.2/windows/32bit/scsi2sd-util.exe)
 
 
 [//]: <>
