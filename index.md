@@ -1,8 +1,9 @@
-## Welcome to the SCSI2SD documentation hub
+## Welcome to the SCSI2SD
+## documentation hub
 
 This one's for you, Stephen ;-)
 
-# Download configuration utility (SCSI2SD-util & SCSI2SD-util6)
+## Download configuration utility (SCSI2SD-util & SCSI2SD-util6)
 
 ### For SCSI2SD Version 4/5 hardware:
 - [SCSI2SD-util.exe for 64-bit Windows](http://scsi2sd.com/v5/files/v4.8.4-hardware-v5.2/windows/64bit/scsi2sd-util.exe)
