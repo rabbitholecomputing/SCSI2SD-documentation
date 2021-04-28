@@ -18,7 +18,7 @@ SCSI2SD V6 boards are configured using *scsi2sd-util6*, an open source utility a
 
 ## Latest firmware
 
-| SCSI2SD Hardware Version |                                                                                                      | Release Date        |   |
+| SCSI2SD Hardware Version |                                                                                                      | Release Date        | Release Notes  |
 |--------------------------|------------------------------------------------------------------------------------------------------|---------------------|---|
 | V5.0, V5,1, V5.5         | [Version 4.8.4](http://scsi2sd.com/v5/files/v4.8.4/firmware/firmware_bundle-v4.8.04.scsi2sd)         | December 12th, 2019 |   |
 | V5.2                     | [Version 4.8.4, custom](http://scsi2sd.com/v5/files/v4.8.4-hardware-v5.2/firmware/SCSI2SD-V52.cyacd) | October 12th, 2020  |   |
