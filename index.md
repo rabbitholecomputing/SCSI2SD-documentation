@@ -1,5 +1,4 @@
-## Welcome to the SCSI2SD
-## documentation hub
+## Welcome to the SCSI2SD documentation hub
 
 This one's for you, Stephen ;-)
 
