@@ -1,7 +1,3 @@
-## Welcome to the SCSI2SD documentation hub
-
-This one's for you, Stephen ;-)
-
 ## Download configuration utility (SCSI2SD-util & SCSI2SD-util6)
 
 ### For SCSI2SD Version 4/5 hardware:
