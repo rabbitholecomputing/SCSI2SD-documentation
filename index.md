@@ -16,9 +16,9 @@ SCSI2SD V6 boards are configured using *scsi2sd-util6*, an open source utility a
 
 ## Latest firmware
 
-- Version 4.8.4 is the [latest firmware release for SCSI2SD V5.0, V5.1, and V5.5](http://scsi2sd.com/v5/files/v4.8.4/firmware/firmware_bundle-v4.8.04.scsi2sd), released December 12th, 2019
+- Version 4.8.4, the [latest firmware release for SCSI2SD V5.0, V5.1, and V5.5](http://scsi2sd.com/v5/files/v4.8.4/firmware/firmware_bundle-v4.8.04.scsi2sd), released December 12th, 2019
 
-- The [latest firmware release for SCSI2SD V5.2, a custom version of firmware 4.8.4](http://scsi2sd.com/v5/files/v4.8.4-hardware-v5.2/firmware/SCSI2SD-V52.cyacd), released October 12th, 2020
+- Version 4.8.4, for [SCSI2SD V5.2, the latest firmware release](http://scsi2sd.com/v5/files/v4.8.4-hardware-v5.2/firmware/SCSI2SD-V52.cyacd), released October 12th, 2020
 
 - Version 6.3.2, the [latest firmware release for SCSI2SD V6 Revision 2020](https://www.scsi2sd.com/v6/files/latest/firmware.V6.2020.dfu), released April 19th, 2020
 
