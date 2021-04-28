@@ -1,4 +1,4 @@
-SCSI2SD V4 & V5 boards are configured using *scsi2sd-util*, an open source utility available for Windows, macOS, and Linux. This utility is also how firmware upgrades are performed. 
+SCSI2SD V4 & V5 boards are configured using *scsi2sd-util*, an open source utility available for Windows, macOS, and Linux. scsi2sd-util is also how firmware updates are performed. 
 SCSI2SD V6 boards are configured using *scsi2sd-util6*, an open source utility available for Windows, macOS, and Linux. 
 
 ### Download configuration utilities
