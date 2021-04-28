@@ -1,3 +1,6 @@
+SCSI2SD V4 & V5 boards are configured using *scsi2sd-util*, an open source utility available for Windows, macOS, and Linux. This utility is also how firmware upgrades are performed. 
+SCSI2SD V6 boards are configured using *scsi2sd-util6*, an open source utility available for Windows, macOS, and Linux. 
+
 ## Download configuration utility (SCSI2SD-util & SCSI2SD-util6)
 
 ### For SCSI2SD Version 4/5 hardware:
@@ -13,32 +16,10 @@
 
 ## Latest firmware
 
-- Version 4.8.4 is the [latest firmware release for SCSI2SD V5.0, V5.1, and V5.5](http://scsi2sd.com/v5/files/v4.8.4/firmware/firmware_bundle-v4.8.04.scsi2sd), released on December 12th, 2019.
+- Version 4.8.4 is the [latest firmware release for SCSI2SD V5.0, V5.1, and V5.5](http://scsi2sd.com/v5/files/v4.8.4/firmware/firmware_bundle-v4.8.04.scsi2sd), released December 12th, 2019
 
-- The [latest firmware release for SCSI2SD V5.2, a custom version of firmware 4.8.4](http://scsi2sd.com/v5/files/v4.8.4-hardware-v5.2/firmware/SCSI2SD-V52.cyacd), was released on October 12th, 2020.
+- The [latest firmware release for SCSI2SD V5.2, a custom version of firmware 4.8.4](http://scsi2sd.com/v5/files/v4.8.4-hardware-v5.2/firmware/SCSI2SD-V52.cyacd), released October 12th, 2020
 
-- Version 6.3.2, the [latest firmware release for SCSI2SD V6 Revision 2020](https://www.scsi2sd.com/v6/files/latest/firmware.V6.2020.dfu), was released on April 19th, 2020.
+- Version 6.3.2, the [latest firmware release for SCSI2SD V6 Revision 2020](https://www.scsi2sd.com/v6/files/latest/firmware.V6.2020.dfu), released April 19th, 2020
 
-- Version 6.3.2, the [latest firmware release for SCSI2SD V6 Revision F and older](https://www.scsi2sd.com/v6/files/latest/firmware.V6.revF.dfu), was released on April 19th, 2020.
-
-SCSI2SD V4 & V5 boards are configured using scsi2sd-util, which is an open source utility available for Windows, macOS, and Linux. This utility is also how firmware upgrades are performed. 
-SCSI2SD V6 boards are configured using scsi2sd-util6, available for download below
-
-
-
-[//]: <>```markdown
-[//]: <> Syntax highlighted code block
-
-[//]: <> # Header 1
-[//]: <>## Header 2
-[//]: <> ### Header 3
-
-[//]: <> 1. Numbered
-[//]: <> 2. List
-
-[//]: <> **Bold** and _Italic_ and `Code` text
-
-[//]: <> [Link](url) and ![Image](src)
-[//]: <>```
-
-[//]: <> For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Version 6.3.2, the [latest firmware release for SCSI2SD V6 Revision F and older](https://www.scsi2sd.com/v6/files/latest/firmware.V6.revF.dfu), released April 19th, 2020
