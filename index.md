@@ -7,14 +7,14 @@ SCSI2SD V6 boards are configured using *scsi2sd-util6*, an open source utility a
 
 - [SCSI2SD-util.exe for 64-bit Windows](https://www.scsi2sd.com/v5/releases/v5.2.0/windows/win64/scsi2sd-util-win64.zip)
 - [SCSI2SD-util.exe for 32-bit Windows](https://www.scsi2sd.com/v5/releases/v5.2.0/windows/win32/scsi2sd-util32.zip)
-- [SCSI2SD-util version 5.2.10 for macOS](http://github.com/rabbitholecomputing/SCSI2SD/releases/download/5.2.10-util/SCSI2SD-util.app.zip) 
+- [SCSI2SD-util version 5.2.10 for macOS](https://github.com/rabbitholecomputing/SCSI2SD/releases/download/5.2.10-util/SCSI2SD-util-5.2.10.zip)
   (Universal binary, Apple & Intel silicon, for macOS 10.7 (Lion) through 11.0, Big Sur)
 
 ### For SCSI2SD V6 hardware
 
 - [SCSI2SD-util6 for 64-bit Windows](http://www.codesrc.com/files/scsi2sd-v6/latest/windows/32bit/scsi2sd-util6-x86-6.4.11.zip)
 - [SCSI2SD-util6 for 32-bit Windows](http://www.codesrc.com/files/scsi2sd-v6/latest/windows/32bit/scsi2sd-util6-x86-6.4.11.zip)
-- [SCSI2SD-util-V6 version 1.0.8 for macOS](https://github.com/rabbitholecomputing/SCSI2SD-util-V6/releases/download/1.0.8/SCSI2SD-util.zip)
+- [SCSI2SD-util-V6 version 1.0.8 for macOS](https://github.com/rabbitholecomputing/SCSI2SD-util-V6/releases/download/1.0.8/SCSI2SD-util-v6.zip)
   (Universal binary, Apple & Intel silicon, for macOS 10.7 (Lion) through 11.0, Big Sur)
 
 ## Latest firmware
