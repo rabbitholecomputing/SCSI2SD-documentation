@@ -9,6 +9,11 @@ SCSI2SD V6 boards are configured using *scsi2sd-util6*, an open source utility a
 - [SCSI2SD-util.exe for 32-bit Windows](https://www.scsi2sd.com/v5/releases/v5.2.0/windows/win32/scsi2sd-util32.zip)
 - [SCSI2SD-util version 5.2.10 for macOS](https://github.com/rabbitholecomputing/SCSI2SD/releases/download/5.2.10-util/SCSI2SD-util-5.2.10.zip)
   (Universal binary, Apple & Intel silicon, for macOS 10.7 (Lion) through 11.0, Big Sur)
+  
+### For SCSI2SD Version 5.5 hardware:
+
+- [SCSI2SD-util.exe for 64-bit Windows](https://www.scsi2sd.com/v5/releases/v4.8.4/windows/64bit/scsi2sd-util-4.8.4.zip)
+- [SCSI2SD-util.exe for 32-bit Windows](https://www.scsi2sd.com/v5/releases/v4.8.4/windows/32bit/scsi2sd-util-4.8.4-win32.zip)
 
 ### For SCSI2SD V6 hardware
 
