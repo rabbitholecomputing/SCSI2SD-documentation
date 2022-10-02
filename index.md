@@ -29,6 +29,6 @@ SCSI2SD V6 boards are configured using *scsi2sd-util6*, an open source utility a
 | V5.0c                    | [v5.0.0](https://www.scsi2sd.com/releases/SCSI2SD-V5.0c-firmware-5.0.0.zip)| November 28, 2021| Add support for seven SCSI devices  |
 | V5.2                     | [v5.2.0](https://scsi2sd.com/v5/releases/v5.2.0/firmware/SCSI2SD-V52.cyacd) | May 12th, 2021     | Add support for seven SCSI devices  |
 | V5.0a/v5.0b, V5.1, V5.5         | [v4.8.4](https://www.scsi2sd.com/v5/releases/v4.8.4/firmware/firmware_bundle-v4.8.04.scsi2sd)   | December 12th, 2019     |
-| V6 Rev F & older         | [v6.4.13](https://www.scsi2sd.com/v6/files/v6.4.14/firmware.V6.revF.dfu)   | May 14, 2022    | Fix firmware version displaying as "0.0" in scsi2sd-util when there is no SD card inserted. |
-| V6 Rev 2020              | [v6.4.13](https://www.scsi2sd.com/v6/files/v6.4.14/firmware.V6.2020.dfu)   | May 14, 2022    | Fix firmware version displaying as "0.0" in scsi2sd-util when there is no SD card inserted. |
-| V6 Rev 2021              | [v6.4.13](https://www.scsi2sd.com/v6/files/v6.4.14/firmware.V6.2021.dfu)   | May 14, 2022    | Fix firmware version displaying as "0.0" in scsi2sd-util when there is no SD card inserted. |
+| V6 Rev F & older         | [v6.4.14](https://www.scsi2sd.com/v6/files/v6.4.14/firmware.V6.revF.dfu)   | May 14, 2022    | Fix firmware version displaying as "0.0" in scsi2sd-util when there is no SD card inserted. |
+| V6 Rev 2020              | [v6.4.14](https://www.scsi2sd.com/v6/files/v6.4.14/firmware.V6.2020.dfu)   | May 14, 2022    | Fix firmware version displaying as "0.0" in scsi2sd-util when there is no SD card inserted. |
+| V6 Rev 2021              | [v6.4.14](https://www.scsi2sd.com/v6/files/v6.4.14/firmware.V6.2021.dfu)   | May 14, 2022    | Fix firmware version displaying as "0.0" in scsi2sd-util when there is no SD card inserted. |
